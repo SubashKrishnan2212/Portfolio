@@ -1,12 +1,5 @@
-# ARHAM.exe // PORTFOLIO_V2
+# SUBASH KRISHNAN.exe // PORTFOLIO_V2
 
-```
-    ___    ____  __  ______    __  ___          ____  ____  ____  __________________  __    ________ 
-   /   |  / __ \/ / / / __ \  /  |/  /         / __ \/ __ \/ __ \/_  __/ ____/ __ \/ /   /  _/ __ \
-  / /| | / /_/ / /_/ / /_/ / / /|_/ /  ______ / /_/ / / / / /_/ / / / / /_  / / / / /    / // / / /
- / ___ |/ _, _/ __  / __  | / /  / /  /_____// ____/ /_/ / _, _/ / / / __/ / /_/ / /____/ // /_/ / 
-/_/  |_/_/ |_/_/ /_/_/ |_| /_/  /_/         /_/    \____/_/ |_| /_/ /_/    \____/_____/___/\____/  
-                                                            
 >> SYSTEM_STATUS: ONLINE
 >> THEME: NEO_BRUTALISM
 >> VERSION: 2.0.0
@@ -87,11 +80,11 @@ It's not about being pretty. It's about being **BOLD**.
 ## /// CONTACT_COORDINATES
 
 **TRANSMISSION OPEN:**
-- **MAIL**: `topiwalaarham@gmail.com`
-- **GITHUB**: `Arham43-ops`
+- **MAIL**: `subashkrishnan2212@gmail.com`
+- **GITHUB**: `Subashkrishnan2212`
 - **LOCATION**: `Remote / Earth`
 
 > "I build digital products that refuse to be boring."
 
 ---
-**© 2025 ARHAM.exe // SYSTEM_END**
+**© 2026 Subash Krishnan.exe // SYSTEM_END**
